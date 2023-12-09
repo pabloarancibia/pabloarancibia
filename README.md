@@ -12,6 +12,10 @@ I’m keen to collaborate on exciting Development projects.
 ## 📫 Get in Touch
 Let's connect on [LinkedIn](https://www.linkedin.com/in/arancibiapablo)!
 
+## 📄 Download My Resume
+
+Feel free to download my [CV here](https://github.com/pabloarancibia/pabloarancibiaresume/blob/main/CV_2023-Arancibia_Pablo.pdf).
+
 ---
 
 ## 💼 Skills
@@ -22,7 +26,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/arancibiapablo)!
   "Frameworks": ["Django", "NodeJs"],
   "Infra & Cloud": ["Docker", "Docker Compose", "AWS"],
   "IoT": ["Mqtt", "Esp32", "Raspberry Pi"],
-  "FrontEnd": ["Angular", "Ionic", "Html", "Css", "Js", "Boostrap"],
+  "FrontEnd": ["Angular", "Ionic", "Html", "Css", "Js", "Bootstrap"],
   "Other Proficiencies": ["Data Science", "Embedded Systems", "Blockchain", "Git", "Documentation", "SQL", "No-SQL", "Nginx", "Linux"]
 }
 ```
