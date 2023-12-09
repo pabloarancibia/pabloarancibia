@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain and software development 
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on Blockchain Development
-- 📫 How to reach me : https://www.linkedin.com/in/arancibiapablo/ on telegram: @unacasacondiezpinos
+- 📫 How to reach me : https://www.linkedin.com/in/arancibiapablo
 
 <!---
 pabloarancibia/pabloarancibia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
