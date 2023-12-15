@@ -6,10 +6,9 @@ and technologies through continuous self-learning.
 
 ### 🌱 Learning Journey
 I hold degrees in:
-- Bachelor's in Computer Science
 - Postgraduate in Internet of Things
+- Bachelor's in Computer Science
 - Diploma in Data Science
-- Leader Developer
   
 I’m currently expanding my horizons with Software Architecture, Design Patterns and Cloud.
 
@@ -66,22 +65,23 @@ Feel free to download my [CV here](https://github.com/pabloarancibia/pabloaranci
   
 ## Work Experience
 
-### [ECOM Chaco](https://ecom.chaco.gov.ar/en/) (Remote) - Lead Developer - Researcher
+### [ECOM Chaco](https://ecom.chaco.gov.ar/en/) (Remote) - Software Developer - Lead Developer - Researcher
 - *2020 - Present*
   
-  As the Lead Developer, I oversee the end-to-end development process, from requirements analysis to solution design and technical architecture. I contribute actively as both a Backend and Fullstack Developer and explore blockchain technologies as a Researcher.
+  As a Fullstack and Backend Developer, I have contributed to the development of high-quality software by implementing agile Scrum methodologies. My expertise includes designing and optimizing scalable architecture, ensuring seamless integration of front-end and back-end components. I excel in utilizing technologies such as Python and Typescript, and my proficiency extends to Django and Node.Js. Throughout my career, I have consistently delivered efficient and user-friendly solutions, demonstrating a strong commitment to achieving both technical excellence and project success.  
+ I have led teams in roles such as Lead Developer, actively participating in requirements analysis, cost estimation, task prioritization, responsibility distribution, and effective coordination with third parties.  
+ Additionally, I have extensive experience in research and development within the blockchain field, specializing in tokenization and node deployment across various blockchains. Furthermore, I have delivered talks and training sessions on blockchain technology.
+
 
   **Key Responsibilities:**
-  - Team leadership
-  - Implementing agile methodologies
-  - Delivery of reports
-  - Time management
-  - Cost estimation
-  - Decision making
-  - Fullstack and backend development
+   - Requirements analysis, Software design, Coding, Software testing, Debugging and bug fixing, Team collaboration, Documentation, Maintenance and updates, Research and continuous learning, Adhering to deadlines, Software security.
 
   **Stack:**
-  Django, DRF, NodeJs, Angular, Ionic, AWS, Docker, PostgreSql.
+  - Languages: Python, Typescript, Javascript.  
+  - Backend: Django, DRF, NodeJs.  
+  - Frontend: Angular, Ionic.  
+  - Others: AWS, Docker, PostgreSql, GIT.  
+
 
   **Tools:**
   Monday, Miró, Confluence, Trello.
