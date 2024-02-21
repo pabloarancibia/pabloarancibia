@@ -64,13 +64,26 @@ Feel free to download my [CV here](https://github.com/pabloarancibia/pabloaranci
 ---
   
 ## Work Experience
+### Freelance, Spain - Software Developer - Testing Automation
+- *2024 - Present*
+
+ Software Engineer with expertise in Python testing and proficiency in backend development with Node.js and Django. 
+Currently, I am actively involved in a collaborative project with a private company where I am responsible for implementing a comprehensive Testing Suite Framework using Pytest, Django and CI through Bitbucket. 
+My role extends to backend development, where I contribute to the seamless integration of Node.js and Django, ensuring the robust functionality of the system.
+
+ **Stack:**
+  - Languages: Python, Typescript, Javascript.
+  - Testing & CI: Pytest, Pipelines. 
+  - Backend: Django, DRF, NodeJs.  
+  - Others: Docker, PostgreSql, GIT, Jira, Confluence.
 
 ### [ECOM Chaco](https://ecom.chaco.gov.ar/en/) (Remote) - Software Developer - Lead Developer - Researcher
-- *2020 - Present*
+- *2020 - 2023*
   
   As a Fullstack and Backend Developer, I have contributed to the development of high-quality software by implementing agile Scrum methodologies. My expertise includes designing and optimizing scalable architecture, ensuring seamless integration of front-end and back-end components. I excel in utilizing technologies such as Python and Typescript, and my proficiency extends to Django and Node.Js. Throughout my career, I have consistently delivered efficient and user-friendly solutions, demonstrating a strong commitment to achieving both technical excellence and project success.  
  I have led teams in roles such as Lead Developer, actively participating in requirements analysis, cost estimation, task prioritization, responsibility distribution, and effective coordination with third parties.  
  Additionally, I have extensive experience in research and development within the blockchain field, specializing in tokenization and node deployment across various blockchains. Furthermore, I have delivered talks and training sessions on blockchain technology.
+
 
 
   **Key Responsibilities:**
