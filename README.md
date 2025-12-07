@@ -1,19 +1,22 @@
 # 👋 Hi there, I’m @pabloarancibia!
 
-### 👀 About Me
-I'm passionate about Technology and Software Development. A highly self-motivated individual, I excel in quickly adapting to new challenges
-and technologies through continuous self-learning.
+### 🚀 Backend Software Engineer | Fintech & Cloud Specialist
+
+I am a seasoned **Integration Software Engineer** and **Python Developer** with a specialized focus on the **Fintech** domain. Currently, I architect and scale robust cloud-native solutions using **GCP** and **Python**. My expertise lies in designing high-performance **REST APIs**, building event-driven **data pipelines**, and managing complex integrations in heavily regulated environments.
+
+With a strong foundation in R&D and a background spanning IoT and Web, I combine deep research capabilities with practical engineering speed to solve complex financial challenges.
+
+---
 
 ### 🌱 Learning Journey
-I hold degrees in:
-- Postgraduate in Internet of Things
-- Bachelor's in Computer Science
-- Diploma in Data Science
+  
+I hold a **Postgraduate degree in Internet of Things**, a **Bachelor's in Computer Science**, and a **Diploma in Data Science**.
+I am currently deepening my expertise in:
+* **Cloud Architecture (GCP & AWS)**
+* **Event-Driven Microservices**
+* **High-Performance Python (FastAPI/AsyncIO)**
   
 I’m currently expanding my horizons with Software Architecture, Design Patterns and Cloud.
-
-### 💞️ Collaboration
-I’m keen to collaborate on exciting Development projects, including opportunities to contribute to non-profit organizations or volunteer initiatives. 📱 Text me 😊.
   
 ### 📫 Get in Touch
 Let's connect on [LinkedIn](https://www.linkedin.com/in/arancibiapablo)!
@@ -28,12 +31,12 @@ Feel free to download my [CV here](https://github.com/pabloarancibia/pabloaranci
 
 ```json
 {
-  "Backend": ["Python", "Typescript", "Javascript"],
-  "Frameworks": ["Django", "NodeJs"],
-  "Infra & Cloud": ["Docker", "Docker Compose", "AWS"],
-  "IoT": ["Mqtt", "Esp32", "Raspberry Pi"],
-  "FrontEnd": ["Angular", "Ionic", "Html", "Css", "Js", "Bootstrap"],
-  "Other Proficiencies": ["Data Science", "Embedded Systems", "Blockchain", "Git", "Documentation", "SQL", "No-SQL", "Nginx", "Linux", "CyberSecurity"]
+  "Core Languages": ["Python (Advanced)", "TypeScript", "SQL"],
+  "Backend & APIs": ["FastAPI", "Flask", "Django", "RESTful APIs", "Microservices"],
+  "Cloud & DevOps": ["GCP (Cloud Run, Pub/Sub, BigQuery)", "AWS", "Docker", "CI/CD Pipelines", "Terraform"],
+  "Data & Integration": ["Data Pipelines", "Event-Driven Architecture", "Celery", "Redis"],
+  "Databases": ["PostgreSQL", "NoSQL (MongoDB)", "Redis"],
+  "Domain Knowledge": ["Fintech", "Payment Systems", "IoT", "Blockchain"]
 }
 ```
 
@@ -43,15 +46,18 @@ Feel free to download my [CV here](https://github.com/pabloarancibia/pabloaranci
 
 1. **Digital Wallet**
    - Role: Backend Leader Developer.
-   - Technologies: Python, DRF, API Rest, Microservices, Hexagonal Arquitecture, AWS, Scrum, OAuth, JWT, Api Testing, Unit Testing.
+   - Technologies: Python, DRF, API Rest, Microservices, Hexagonal Arquitecture, AWS, OAuth2, JWT, Testing.
+   - Impact: Designed the core ledger and transaction modules, implementing strict testing standards (Unit/Integration) and ensuring compliance with financial security protocols.
 
 2. **IoT System**
    - Role: Fullstack Developer.
-   - Technologies: NodeJs, Mqtt, C++, Docker, Angular, Ionic, Nginx, JWT, Esp32, Raspberry Pi, RFID.
+   - Technologies: NodeJs, Mqtt, C++, Docker, Angular, Ionic, Nginx, JWT, Esp32, Raspberry Pi, RFID
+   - Impact: Built a real-time state management system integrating RFID and microcontrollers, handling high-throughput data streams for industrial tracking.
 
-3. **Django App**
+3. **Django Enterprise App**
    - Role: Fullstack Developer.
-   - Technologies: Django, Users admin, CRUD, Templates, Forms, Files Management, SQL.
+   - Stack: Django, PostgreSQL, Celery, Docker.
+   - Impact: Developed a scalable management platform featuring complex user permissions, automated reporting, and optimized SQL queries.
 
 4. **MEAN App**
    - Role: Fullstack Developer.
@@ -64,6 +70,19 @@ Feel free to download my [CV here](https://github.com/pabloarancibia/pabloaranci
 ---
   
 ## Work Experience
+
+### Integration Software Engineer (Fintech) Brite Payments / Málaga, Spain | 2024 - Present
+
+- GCP & Python: developing serverless backend services (Cloud Run/Functions) to process financial data.
+
+- API Integration: Building resilient connectors for banking partners and internal microservices.
+
+**Stack:**
+- Python - FastAPI
+- Hexagonal and Microservices Architecture
+- Google Cloud Platform
+- Agile Methodologies
+  
 ### Freelance, Spain - Software Developer - Testing Automation
 - *2024 - Present*
 
