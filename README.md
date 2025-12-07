@@ -23,7 +23,7 @@ Let's connect on [LinkedIn](https://www.linkedin.com/in/arancibiapablo)!
 
 ## 📄 Download My Resume
   
-Feel free to download my [CV here](https://github.com/pabloarancibia/pabloarancibia/blob/main/CV_2023-Arancibia_Pablo-eng_d.pdf).
+Feel free to download my [CV here](https://github.com/pabloarancibia/pabloarancibia/blob/main/CV_2025-Arancibia_Pablo-eng_d.pdf).
 
 ---
 
