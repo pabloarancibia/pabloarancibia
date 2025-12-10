@@ -34,7 +34,7 @@ Feel free to download my [CV here](https://github.com/pabloarancibia/pabloaranci
   "Core Languages": ["Python (Advanced)", "TypeScript", "SQL"],
   "Backend & APIs": ["FastAPI", "Flask", "Django", "RESTful APIs", "Microservices"],
   "Cloud & DevOps": ["GCP (Cloud Run, Pub/Sub, BigQuery)", "AWS", "Docker", "CI/CD Pipelines", "Terraform"],
-  "Data & Integration": ["Data Pipelines", "Event-Driven Architecture", "Celery", "Redis"],
+  "Data & Integration": ["Data Pipelines", "Hexagonal & Event-Driven Architecture", "Celery","RabbitMQ"],
   "Databases": ["PostgreSQL", "NoSQL (MongoDB)", "Redis"],
   "Domain Knowledge": ["Fintech", "Payment Systems", "IoT", "Blockchain"]
 }
