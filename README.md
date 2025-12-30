@@ -1,198 +1,104 @@
 # 👋 Hi there, I’m @pabloarancibia!
 
-### 🚀 Backend Software Engineer | Fintech & Cloud Specialist
+### 🚀 Senior Software Engineer | Cloud Architect | R&D Engineer
 
-I am a seasoned **Integration Software Engineer** and **Python Developer** with a specialized focus on the **Fintech** domain. Currently, I architect and scale robust cloud-native solutions using **GCP** and **Python**. My expertise lies in designing high-performance **REST APIs**, building event-driven **data pipelines**, and managing complex integrations in heavily regulated environments.
+Versatile **Senior Software Engineer** with over 10 years of experience in designing and building scalable, high-performance distributed systems. My background spans **Cloud Architecture**, **Microservices**, and **AI Engineering**, with a strong focus on engineering rigor, security, and maintainability.
 
-With a strong foundation in R&D and a background spanning IoT and Web, I combine deep research capabilities with practical engineering speed to solve complex financial challenges.
+I specialize in bridging the gap between complex business requirements and robust technical solutions, whether in **AI-driven applications**, **high-volume transactional systems**, or **cloud-native infrastructure**. I am currently exploring advanced R&D in **Generative AI Agents** and **Vector Search**, applying the same engineering principles that I use for mission-critical backend systems.
 
----
-
-### 🌱 Learning Journey
-  
-I hold a **Postgraduate degree in Internet of Things**, a **Bachelor's in Computer Science**, and a **Diploma in Data Science**.
-I am currently deepening my expertise in:
-* **Cloud Architecture (GCP & AWS)**
-* **Event-Driven Microservices**
-* **High-Performance Python (FastAPI/AsyncIO)**
-  
-I’m currently expanding my horizons with Software Architecture, Design Patterns and Cloud.
-  
-### 📫 Get in Touch
-Let's connect on [LinkedIn](https://www.linkedin.com/in/arancibiapablo)!
-
-## 📄 Download My Resume
-  
-Feel free to download my [CV here](https://github.com/pabloarancibia/pabloarancibia/blob/main/CV_2025-Arancibia_Pablo-B.pdf).
+📍 **Location**: Málaga, Spain  
+📧 **Contact**: [pabloarancibia.dw@gmail.com](mailto:pabloarancibia.dw@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/arancibiapablo](https://www.linkedin.com/in/arancibiapablo)  
+📂 **Portfolio**: [github.com/pabloarancibia](https://github.com/pabloarancibia)
 
 ---
 
-## 💼 Skills
+## 🛠 Core Competencies
 
-```json
-{
-  "Core Languages": ["Python (Advanced)", "TypeScript", "SQL"],
-  "Backend & APIs": ["FastAPI", "Flask", "Django", "RESTful APIs", "Microservices"],
-  "Cloud & DevOps": ["GCP (Cloud Run, Pub/Sub, BigQuery)", "AWS", "Docker", "CI/CD Pipelines", "Terraform"],
-  "Data & Integration": ["Data Pipelines", "Hexagonal & Event-Driven Architecture", "Celery","RabbitMQ"],
-  "Databases": ["PostgreSQL", "NoSQL (MongoDB)", "Redis"],
-  "Domain Knowledge": ["Fintech", "Payment Systems", "IoT", "Blockchain"]
-}
-```
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python (Expert - 10+ years), TypeScript, JavaScript, SQL, C++ |
+| **Backend Engineering** | Efficient REST APIs, Microservices, Event-Driven Architecture (EDA), DDD, Hexagonal Architecture |
+| **Cloud & DevOps** | AWS, Google Cloud Platform (GCP), Azure, Terraform (IaC), Docker, Kubernetes, CI/CD |
+| **Data & Persistence** | PostgreSQL, Redis, RabbitMQ, Vector Databases, Data Pipelines |
+| **AI & R&D** | RAG Systems, LLM Integration, Semantic Kernel, Vector Search, Model Context Protocol (MCP) |
+| **Security** | OAuth2/OIDC, JWT, Secure Data Exchange, Compliance Standards |
 
 ---
 
-## 🔨 Main Projects
+## 📂 Featured Projects & R&D
 
-1. **Digital Wallet**
-   - Role: Backend Leader Developer.
-   - Technologies: Python, DRF, API Rest, Microservices, Hexagonal Arquitecture, AWS, OAuth2, JWT, Testing.
-   - Impact: Designed the core ledger and transaction modules, implementing strict testing standards (Unit/Integration) and ensuring compliance with financial security protocols.
+### [CryptoFlow | Autonomous AI Agent System](https://github.com/pabloarancibia/cryptoflow)
+**An exploration into autonomous agents and modern AI architecture.**
 
-2. **IoT System**
-   - Role: Fullstack Developer.
-   - Technologies: NodeJs, Mqtt, C++, Docker, Angular, Ionic, Nginx, JWT, Esp32, Raspberry Pi, RFID
-   - Impact: Built a real-time state management system integrating RFID and microcontrollers, handling high-throughput data streams for industrial tracking.
-
-3. **Django Enterprise App**
-   - Role: Fullstack Developer.
-   - Stack: Django, PostgreSQL, Celery, Docker.
-   - Impact: Developed a scalable management platform featuring complex user permissions, automated reporting, and optimized SQL queries.
-
-4. **MEAN App**
-   - Role: Fullstack Developer.
-   - Technologies: NodeJs, Express, Sequelize, SQL, JWT, Angular.
-  
-5. **Embedded System Processor**
-   - Role: Resercher & Developer.
-   - Technologies: Python, C++, Websocket, UDP, Asterix, Wireshark.
+This project represents my applied R&D work in bringing software engineering best practices to the AI domain. It features:
+*   **Autonomous Agents**: Implementation of agents using Semantic Kernel capable of tool execution and goal-oriented planning.
+*   **Robust Architecture**: Built on a solid microservices foundation using **FastAPI** and **Hexagonal Architecture** to ensure testability and decoupling.
+*   **Retrieval-Augmented Generation (RAG)**: Integration of Vector Search to ground AI responses in factual data.
+*   **Infrastructure as Code**: Fully provisioned on **Kubernetes** using **Terraform**, demonstrating a production-ready approach to AI deployment.
 
 ---
-  
-## Work Experience
 
-### Integration Software Engineer (Fintech) Brite Payments / Málaga, Spain | 2024 - Present
+## 💼 Professional Experience
 
-- GCP & Python: developing serverless backend services (Cloud Run/Functions) to process financial data.
+### **Senior Software Engineer** | Brite Payments
+*Remote (Spain) | May 2024 – Dec 2025*
 
-- API Integration: Building resilient connectors for banking partners and internal microservices.
+Architected and maintained secure, high-availability backend services.
+*   Designed and implemented resilient microservices handling critical data flows with strict consistency requirements.
+*   Optimized cloud infrastructure for high scalability, ensuring system stability during traffic spikes.
+*   Led security initiatives, implementing robust authentication and authorization protocols (OAuth2, JWT).
+*   Engineered event-driven data pipelines for reliable distributed data processing.
 
-**Stack:**
-- Python - FastAPI
-- Hexagonal and Microservices Architecture
-- Google Cloud Platform
-- Agile Methodologies
-  
-### Freelance, Spain - Software Developer - Testing Automation
-- *2024 - Present*
+### **Senior Software Developer** | Freelance
+*Remote (Spain) | 2024*
 
- Software Engineer with expertise in Python testing and proficiency in backend development with Node.js and Django. 
-Currently, I am actively involved in a collaborative project with a private company where I am responsible for implementing a comprehensive Testing Suite Framework using Pytest, Django and CI through Bitbucket. 
-My role extends to backend development, where I contribute to the seamless integration of Node.js and Django, ensuring the robust functionality of the system.
+*   **Automation & Quality**: designed a comprehensive testing framework that significantly reduced regression rates and improved code quality.
+*   **DevOps Modernization**: Implemented automated CI/CD pipelines to streamline deployment and testing processes.
+*   **System Modernization**: Led the migration and integration of legacy services into modern backend architectures.
 
- **Stack:**
-  - Languages: Python, Typescript, Javascript.
-  - Testing & CI: Pytest, Pipelines. 
-  - Backend: Django, DRF, NodeJs.  
-  - Others: Docker, PostgreSql, GIT, Jira, Confluence.
+### **Lead Software Engineer** | ECOM Chaco
+*Remote (Argentina) | 2020 – 2023*
 
-### [ECOM Chaco](https://ecom.chaco.gov.ar/en/) (Remote) - Software Developer - Lead Developer - Researcher
-- *2020 - 2023*
-  
-  As a Fullstack and Backend Developer, I have contributed to the development of high-quality software by implementing agile Scrum methodologies. My expertise includes designing and optimizing scalable architecture, ensuring seamless integration of front-end and back-end components. I excel in utilizing technologies such as Python and Typescript, and my proficiency extends to Django and Node.Js. Throughout my career, I have consistently delivered efficient and user-friendly solutions, demonstrating a strong commitment to achieving both technical excellence and project success.  
- I have led teams in roles such as Lead Developer, actively participating in requirements analysis, cost estimation, task prioritization, responsibility distribution, and effective coordination with third parties.  
- Additionally, I have extensive experience in research and development within the blockchain field, specializing in tokenization and node deployment across various blockchains. Furthermore, I have delivered talks and training sessions on blockchain technology.
+*   **Technical Leadership**: Led cross-functional development teams, driving architectural decisions and agile processes.
+*   **Full-Stack Scalability**: Designed end-to-end scalable architectures, ensuring seamless integration between diverse frontend and backend systems.
+*   **Stakeholder Management**: Coordinated with external vendors and internal teams to deliver complex software solutions.
 
+### **R&D Engineer & Team Lead** | Argentine Air Force
+*Argentina | 2014 – 2020*
 
+*   **Engineering Leadership**: Managed a sizable technical team overseeing critical IT infrastructure and operations.
+*   **Signal Processing & Systems**: Led R&D initiatives for embedded systems and real-time signal processing, applying high-performance computing concepts.
 
-  **Key Responsibilities:**
-   - Requirements analysis, Software design, Coding, Software testing, Debugging and bug fixing, Team collaboration, Documentation, Maintenance and updates, Research and continuous learning, Adhering to deadlines, Software security.
-
-  **Stack:**
-  - Languages: Python, Typescript, Javascript.  
-  - Backend: Django, DRF, NodeJs.  
-  - Frontend: Angular, Ionic.  
-  - Others: AWS, Docker, PostgreSql, GIT.  
-
-
-  **Tools:**
-  Monday, Miró, Confluence, Trello.
-
-### Freelance - Fullstack Developer
-- *2022*
-
-  Independently executed end-to-end development of an IoT solution focusing on state management for work processes in a private company. Integrated RFID technology, microcontrollers, and a comprehensive server system.
-
-  **Technologies:**
-  Typescript, Angular, Ionic, NodeJs, Express, Sequelize, C++, MQTT, Docker, NginX.
-
-### AIR FORCE, Argentina - Researcher & Developer
-- *2018 - 2020*
-
-  Led a team in researching and developing upgrades for a radar signal processor. Focused on Radar Signals and Embedded Systems using Python and C++.
-
-  **Key Responsibilities:**
-  - Research
-  - Development
-  - Delivery of reports
-
-  **Stack:**
-  Python, C++, Microcontrollers.
-
-### AIR FORCE, Argentina - Head of Communications and IT Services
-- *2014 - 2020*
-
-  Managed personnel, daily tasks, and project oversight. Administered materials, including cost management, expense forecasts, and resource projections.
-
-  **Key Responsibilities:**
-  - Managing a team of 17 professionals
-
-  **Stack:**
-  Linux, Mikrotik, Cisco.
-
-### AIR FORCE, Buenos Aires - Fullstack Developer
-- *2011 - 2013*
-
-  Spearheaded the development and maintenance of diverse system projects. Successfully implemented a comprehensive system for managing access to the central building of the Air Force. Played a pivotal role in creating a system for efficiently managing tasks and schedules at military hospitals.
-
-  **Stack:**
-  C#, Asp.Net, SQL.
-  
 ---
-  
+
+## 📚 Continuous Learning
+
+I am constantly expanding my knowledge in emerging technologies. Recently, I have been diving deep into:
+*   **Agentic AI**: Security risks, tool integration, and orchestration patterns (MCP).
+*   **Advanced Cloud Architectures**: Serverless patterns and multi-cloud strategies.
+*   **System Performance**: High-concurrency optimization and database tuning.
+
+---
+
 ## 🎓 Education
 
-- **University of Buenos Aires - Internet of Things Specialty**
-  - [Website](https://www.uba.ar/)
-  - Duration: 2020 - 2023
-  - Protocols: TCP/IP, Mqtt, LoraWan, and others.
-  - Languages: Typescript with Angular & NodeJs, C++
-  - Databases: Relational (MySQL), No relationals (MongoDB), and graphs (Neo4j)
-  - Technologies: Machine Learning, Cybersecurity, Testing, Embedded systems, AWS Cloud, Agile methodologies, and others.
+*   **Internet of Things (IoT) Specialty** | University of Buenos Aires (UBA)
+*   **Degree in Computer Science** | National University of Lanús
+*   **Diploma on Data Science** | ITBA
 
-- **Emurgo - Cardano Blockchain Developer**
-  - [Website](https://education.emurgo.io/)
-  - Duration: 2021 - 2022
-  - Blockchain fundamentals, Cardano fundamentals, Tokens, Haskell programming.
+---
 
-- **ITBA - Diploma on Data Science**
-  - [Website](https://www.itba.edu.ar/)
-  - Duration: 08/2020 - 12/2020
-  - Advanced SQL, ETL (Extract, Transform and Load), R & Python, Machine Learning and Neural Networks, Visualization.
+## 📄 Resume
 
-- **National University of Lanús - Degree in Computer Science**
-  - [Website](http://www.unla.edu.ar/)
-  - Duration: 2020 - 2022
-  - Oriented in Technologies for Education.
-  - Thesis Work, Research Methodologies, Pedagogy Courses, Computational Thinking, Project Management, Systems Design.
+📥 [**Download My Full CV (PDF)**](https://github.com/pabloarancibia/pabloarancibia/blob/main/CV_2025-Arancibia_Pablo-B.pdf)
 
-- **Almafuerte Institute - Systems Analyst and Computer Programmer**
-  - Duration: 2005 - 2007
-  - Programming, Systems Design, Database Management, Algorithm Analysis and Design, Computer Architecture, Computer Networks, Operating Systems, Web Development, Computer Security, Project Management, Internships and Ethics
+---
 
-## Language Skills
-- English: Intermediate (B2)
-- Spanish: Native
+## 🗣 Language Skills
+*   **English**: Full Professional Proficiency
+*   **Spanish**: Native
+
 <!---
 pabloarancibia/pabloarancibia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
