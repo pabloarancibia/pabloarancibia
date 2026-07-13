@@ -86,7 +86,7 @@ I am constantly expanding my knowledge in emerging technologies. Recently, I hav
 
 ## 📄 Resume
 
-📥 [**Download My Full CV (PDF)**](https://github.com/pabloarancibia/pabloarancibia/blob/main/CV_2025-Arancibia_Pablo-B.pdf)
+📥 [**Download My Full CV (PDF)**]([https://github.com/pabloarancibia/pabloarancibia/blob/main/CV_2025-Arancibia_Pablo-B.pdf](https://github.com/pabloarancibia/pabloarancibia/blob/main/CV_2026_B-Arancibia_Pablo.pdf))
 
 ---
 
