@@ -26,25 +26,20 @@ I specialize in bridging the gap between complex business requirements and robus
 
 ---
 
-## 📂 Featured Projects & R&D
-
-### [CryptoFlow | Autonomous AI Agent System](https://github.com/pabloarancibia/cryptoflow)
-**An exploration into autonomous agents and modern AI architecture.**
-
-This project represents my applied R&D work in bringing software engineering best practices to the AI domain. It features:
-*   **Autonomous Agents**: Implementation of agents using Semantic Kernel capable of tool execution and goal-oriented planning.
-*   **Robust Architecture**: Built on a solid microservices foundation using **FastAPI** and **Hexagonal Architecture** to ensure testability and decoupling.
-*   **Retrieval-Augmented Generation (RAG)**: Integration of Vector Search to ground AI responses in factual data.
-*   **Infrastructure as Code**: Fully provisioned on **Kubernetes** using **Terraform**, demonstrating a production-ready approach to AI deployment.
-
----
-
 ## 💼 Professional Experience
+
+### **Senior Software Engineer** | ATM
+*Remote (Spain) | Jan 2026 – July 2026*
+
+*   **Architecture & Design**: Led the implementation of a new backend architecture and software design from scratch using Django.
+*   **Technology Stack**: Built robust systems utilizing a Django backend, Django REST Framework (DRF), Sentry, Kubernetes, and Redis.
+*   **Project Scope**: Executed a highly focused, temporary role dedicated to establishing a scalable architectural foundation, successfully handing over the system for long-term maintenance by the company's permanent staff.
 
 ### **Senior Software Engineer** | Brite Payments
 *Remote (Spain) | May 2024 – Dec 2025*
 
-Architected and maintained secure, high-availability backend services.
+Architected and maintained secure, high-availability backend services for a leading fintech company.
+*   **Fintech & Integrations**: Developed and maintained critical bank integrations operating across Germany and the Netherlands.
 *   Designed and implemented resilient microservices handling critical data flows with strict consistency requirements.
 *   Optimized cloud infrastructure for high scalability, ensuring system stability during traffic spikes.
 *   Led security initiatives, implementing robust authentication and authorization protocols (OAuth2, JWT).
@@ -98,8 +93,3 @@ I am constantly expanding my knowledge in emerging technologies. Recently, I hav
 ## 🗣 Language Skills
 *   **English**: Full Professional Proficiency
 *   **Spanish**: Native
-
-<!---
-pabloarancibia/pabloarancibia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
